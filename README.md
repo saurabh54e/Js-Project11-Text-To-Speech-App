@@ -1,4 +1,4 @@
-🚀 Day 11/30 – Text to Speech Web App
+🚀 Project 11 of my 30 JavaScript Projects Challenge. – Text to Speech Web App
 
 Continuing my 30 Days JavaScript Challenge, I built a **Text to Speech Web App** using **Vanilla JavaScript** and the **Web Speech API**.
 
@@ -34,7 +34,7 @@ Save text and speech history
 Download speech as an audio file
 Dark mode support
 
-Live: https://saurabh54e.github.io/Js-Day11-Text-To-Speech-App/
+Live: https://saurabh54e.github.io/Js-Project11-Text-To-Speech-App/
 
 **Author**
 Saurabh Singh
