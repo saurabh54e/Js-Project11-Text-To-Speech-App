@@ -53,13 +53,13 @@ The application uses the Web Speech API to convert user-provided text into speec
 
 ## Live Demo
 
-[View Live Demo](https://saurabh54e.github.io/Js-Project11-Text-To-Speech-App/)
+(https://saurabh54e.github.io/Js-Project11-Text-To-Speech-App/)
 
 ---
 
 ## GitHub Repository
 
-[View GitHub Repository](https://github.com/saurabh54e/Js-Project11-Text-To-Speech-App/)
+(https://github.com/saurabh54e/Js-Project11-Text-To-Speech-App/)
 
 ---
 
